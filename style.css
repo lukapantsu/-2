@@ -1,0 +1,142 @@
+.body{
+    display: inline-block;
+
+}
+.form{
+    text-align: center;
+    width: 156px;
+    height: 22px;
+
+    color: #ABAAAA;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#Login{
+    width: 69px;
+    height: 22px;
+    color: #301B52;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#sec1{
+    margin: 100px 25px;
+        width: 190px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid var(--Gray-3, #828282);
+    text-align: center;
+    float: right;
+    width: 240px;
+    height: 235px;
+    border-radius: 20px;
+    border: 2px solid var(--Gray-4, #BDBDBD);
+    background: #F4F3F3;
+}
+.forma{ 
+    margin-top: 200px;
+    text-align: center;
+    display: inline-block;
+    width: 727px;
+    height: 395px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 1px solid var(--Gray-6, #F2F2F2);
+    background: #301B52;
+}
+input[type=text], input[type=password] {
+    border-radius: 20px;
+    border: 1px solid var(--Gray-6, #F2F2F2);
+    background: #ffffff7e;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+  }
+  #Log{
+    color: #FFF;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    width: 87px;
+    height: 26px;
+    border-radius: 20px;
+    border: 0px solid var(--Gray-6, #F2F2F2);
+    background: #301B52;
+  }
+  #Sign{
+   
+    width: 38px;
+    height: 17px;
+    color: #FFF;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 87px;
+
+    height: 26px;
+    border-radius: 20px;
+    border: 0px solid var(--Red, #EB5757);
+    background: #DB0916;
+  }
+  body {
+    margin:50px 0px; padding:0px;
+    text-align:center;
+    box-align:center;
+}
+#Tech{
+    margin-top: 170px;
+    
+    display: inline-block;
+    text-align: center;
+    width: 119px;
+    height: 22px;
+    color: #FFF;
+
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#Power{
+  
+    display: inline-block;
+    text-align: center;
+    width: 164px;
+    height: 22px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.psw{
+   
+    display: inline-block;
+    text-align: left;
+    width: 156px;
+    height: 22px;
+    color: #301B52;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
